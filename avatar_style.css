@@ -1,0 +1,32 @@
+
+
+#avatar {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    height: 350px;
+}
+
+#avatar div img {
+    position: absolute;
+}
+
+#avatar img {
+    width: 100%;
+}
+
+.aperçu {
+    width: 80px;
+    margin: 0 5px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0 1px 3px, rgba(0, 0, 0, 0.24) 0 1px 2px;
+    background-color: #eeeeee;
+}
+
+.accordion-body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow: scroll;
+    width: 100vw;
+}
