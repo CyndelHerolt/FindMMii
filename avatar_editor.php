@@ -2,8 +2,9 @@
 require 'debut_html.inc.php';
 require 'menu.inc.php';
 ?>
-<main>
+<main id="avatar_editor">
 <article>
+    <h1><span>Pour commencer</span> créé ton avatar</h1>
 <div id='avatar'>
     <!-- -----------------------------------------------------------------VETEMENTS-------------------------------------------------------------------------->
 
@@ -291,6 +292,7 @@ require 'menu.inc.php';
             <div class="accordion-body">
                 <img class="aperçu" id="glass" onclick="glasses1()" src="avatar/lunettes/lunettescarees.svg" alt="lunettes">
                 <img class="aperçu" id="glass2" onclick="glasses2()" src="avatar/lunettes/lunettesrondes.svg" alt="lunettes">
+                <img class="aperçu" id="glass3" onclick="glasses3()" src="avatar/lunettes/none.svg" alt="lunettes">
             </div>
         </div>
     </div>
@@ -2460,14 +2462,15 @@ function clothes1(){
         document.getElementById('glass1').style.visibility = "hidden";
         document.getElementById('glass2').style.visibility = "visible";
     }
+    function glasses3(){
+        document.getElementById('glass1').style.visibility = "hidden";
+        document.getElementById('glass2').style.visibility = "hidden";
+    }
 </script>
 
     <!-- bouton SCREEN -->
-    <button onclick="takeshot()">
-        Capture d'écran
-    </button>
+    <button onclick="takeshot()">Créer</button>
 
-    <h4>Veuillez choisir le format d'image pour le téléchargement ou la sauvegarde </h4>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script type="text/javascript">

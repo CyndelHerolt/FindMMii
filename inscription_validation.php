@@ -1,25 +1,17 @@
 <?php
 require 'debut_html.inc.php';
 require 'menu.inc.php';
+header('location: avatar_editor.php');
 ?>
 <div class="validation">
-    <h1>Création de votre compte !</h1>
-
     <?php
 
-    $prenom = $_POST['prenom'];
-    $nom = $_POST['nom'];
-    $tel = $_POST['tel'];
-    $naissance = $_POST['naissance'];
+    $prenom = strtolower(ucfirst($_POST['prenom']));
+    $nom = strtoupper($_POST['nom']);
     $mail = $_POST['mail'];
     $mdp = $_POST['mdp'];
 
     $mdpcrypte = crypt($mdp, '$6$rounds=5000$usesomesillystringforsalt$');
-
-
-    strtolower($prenom);
-    ucfirst($prenom);
-    strtoupper($nom);
 
 
     // var_dump($_POST);
@@ -31,17 +23,11 @@ require 'menu.inc.php';
         $co,
         $prenom,
         $nom,
-        $tel,
-        $naissance,
         $mail,
         $mdpcrypte
     );
     deconnexionBD($co);
     ?>
-    <br>
-    <br> <br>
-    <h4>Pour retourner à l'accueil et réaliser votre personnage </h4>
-    <span><a href=""></a></span>
 
     <?php
     require 'fin_html.inc.php';
