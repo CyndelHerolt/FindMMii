@@ -9,104 +9,104 @@ require 'menu.inc.php';
     <!-- -----------------------------------------------------------------VETEMENTS-------------------------------------------------------------------------->
 
     <div class="clothes">
-        <img id="chemise1" style="visibility: visible;" src="avatar/vetement/chemisebleue.svg" alt="chemise">
-        <img id="chemise2" style="visibility: hidden;" src="avatar/vetement/chemisenoire.svg" alt="chemise">
-        <img id="chemise3" style="visibility: hidden;" src="avatar/vetement/chemiserouge.svg" alt="chemise">
-        <img id="chemise4" style="visibility: hidden;" src="avatar/vetement/chemiseverte.svg" alt="chemise">
+        <img id="chemise1" style="visibility: visible;" src="avatar/vetement/chemisebleue.png" alt="chemise">
+        <img id="chemise2" style="visibility: hidden;" src="avatar/vetement/chemisenoire.png" alt="chemise">
+        <img id="chemise3" style="visibility: hidden;" src="avatar/vetement/chemiserouge.png" alt="chemise">
+        <img id="chemise4" style="visibility: hidden;" src="avatar/vetement/chemiseverte.png" alt="chemise">
 
-        <img id="gilet1" style="visibility: hidden;" src="avatar/vetement/giletbleu.svg" alt="gilet">
-        <img id="gilet2" style="visibility: hidden;" src="avatar/vetement/giletnoir.svg" alt="gilet">
-        <img id="gilet3" style="visibility: hidden;" src="avatar/vetement/giletrouge.svg" alt="gilet">
-        <img id="gilet4" style="visibility: hidden;" src="avatar/vetement/giletvert.svg" alt="gilet">
+        <img id="gilet1" style="visibility: hidden;" src="avatar/vetement/giletbleu.png" alt="gilet">
+        <img id="gilet2" style="visibility: hidden;" src="avatar/vetement/giletnoir.png" alt="gilet">
+        <img id="gilet3" style="visibility: hidden;" src="avatar/vetement/giletrouge.png" alt="gilet">
+        <img id="gilet4" style="visibility: hidden;" src="avatar/vetement/giletvert.png" alt="gilet">
 
-        <img id="pull1" style="visibility: hidden;" src="avatar/vetement/pullbleu.svg" alt="pull">
-        <img id="pull2" style="visibility: hidden;" src="avatar/vetement/pullnoir.svg" alt="pull">
-        <img id="pull3" style="visibility: hidden;" src="avatar/vetement/pullrouge.svg" alt="pull">
-        <img id="pull4" style="visibility: hidden;" src="avatar/vetement/pullvert.svg" alt="pull">
+        <img id="pull1" style="visibility: hidden;" src="avatar/vetement/pullbleu.png" alt="pull">
+        <img id="pull2" style="visibility: hidden;" src="avatar/vetement/pullnoir.png" alt="pull">
+        <img id="pull3" style="visibility: hidden;" src="avatar/vetement/pullrouge.png" alt="pull">
+        <img id="pull4" style="visibility: hidden;" src="avatar/vetement/pullvert.png" alt="pull">
 
-        <img id="sweat1" style="visibility: hidden;" src="avatar/vetement/sweatbleu.svg" alt="sweat">
-        <img id="sweat2" style="visibility: hidden;" src="avatar/vetement/sweatnoir.svg" alt="sweat">
-        <img id="sweat3" style="visibility: hidden;" src="avatar/vetement/sweatrouge.svg" alt="sweat">
-        <img id="sweat4" style="visibility: hidden;" src="avatar/vetement/sweatvert.svg" alt="sweat">
+        <img id="sweat1" style="visibility: hidden;" src="avatar/vetement/sweatbleu.png" alt="sweat">
+        <img id="sweat2" style="visibility: hidden;" src="avatar/vetement/sweatnoir.png" alt="sweat">
+        <img id="sweat3" style="visibility: hidden;" src="avatar/vetement/sweatrouge.png" alt="sweat">
+        <img id="sweat4" style="visibility: hidden;" src="avatar/vetement/sweatvert.png" alt="sweat">
 
-        <img id="tshirt1" style="visibility: hidden;" src="avatar/vetement/tshirtbleu.svg" alt="tshirt">
-        <img id="tshirt2" style="visibility: hidden;" src="avatar/vetement/tshirtnoir.svg" alt="tshirt">
-        <img id="tshirt3" style="visibility: hidden;" src="avatar/vetement/tshirtrouge.svg" alt="tshirt">
-        <img id="tshirt4" style="visibility: hidden;" src="avatar/vetement/tshirtvert.svg" alt="tshirt">
+        <img id="tshirt1" style="visibility: hidden;" src="avatar/vetement/tshirtbleu.png" alt="tshirt">
+        <img id="tshirt2" style="visibility: hidden;" src="avatar/vetement/tshirtnoir.png" alt="tshirt">
+        <img id="tshirt3" style="visibility: hidden;" src="avatar/vetement/tshirtrouge.png" alt="tshirt">
+        <img id="tshirt4" style="visibility: hidden;" src="avatar/vetement/tshirtvert.png" alt="tshirt">
     </div>
 
     <!-- -----------------------------------------------------------------PEAUX-------------------------------------------------------------------------->
 
     <div class="faces">
-        <img id="visage1" style="visibility: visible;" src="avatar/visage/visageB.svg" alt="visage">
-        <img id="visage2" style="visibility: hidden;" src="avatar/visage/visageLS.svg" alt="visage">
-        <img id="visage3" style="visibility: hidden;" src="avatar/visage/visageN.svg" alt="visage">
+        <img id="visage1" style="visibility: visible;" src="avatar/visage/visageB.png" alt="visage">
+        <img id="visage2" style="visibility: hidden;" src="avatar/visage/visageLS.png" alt="visage">
+        <img id="visage3" style="visibility: hidden;" src="avatar/visage/visageN.png" alt="visage">
     </div>
 
     <!-- -----------------------------------------------------------------YEUX-------------------------------------------------------------------------->
 
 
     <div class="eyes">
-        <img id="eyes1" style="visibility: visible;" src="avatar/yeux/yeux0mec.svg" alt="yeux">
-        <img id="eyes2" style="visibility: hidden;" src="avatar/yeux/yeux0meuf.svg" alt="yeux">
-        <img id="eyes3" style="visibility: hidden;" src="avatar/yeux/yeux1Bmec.svg" alt="yeux">
-        <img id="eyes4" style="visibility: hidden;" src="avatar/yeux/yeux1Bmeuf.svg" alt="yeux">
-        <img id="eyes5" style="visibility: hidden;" src="avatar/yeux/yeux1LSmec.svg" alt="yeux">
-        <img id="eyes6" style="visibility: hidden;" src="avatar/yeux/yeux1LSmeuf.svg" alt="yeux">
-        <img id="eyes7" style="visibility: hidden;" src="avatar/yeux/yeux1Nmec.svg" alt="yeux">
-        <img id="eyes8" style="visibility: hidden;" src="avatar/yeux/yeux1Nmeuf.svg" alt="yeux">
-        <img id="eyes9" style="visibility: hidden;" src="avatar/yeux/yeux2Bmec.svg" alt="yeux">
-        <img id="eyes10" style="visibility: hidden;" src="avatar/yeux/yeux2Bmeuf.svg" alt="yeux">
-        <img id="eyes11" style="visibility: hidden;" src="avatar/yeux/yeux2LSmec.svg" alt="yeux">
-        <img id="eyes12" style="visibility: hidden;" src="avatar/yeux/yeux2LSmeuf.svg" alt="yeux">
-        <img id="eyes13" style="visibility: hidden;" src="avatar/yeux/yeux2Nmec.svg" alt="yeux">
-        <img id="eyes14" style="visibility: hidden;" src="avatar/yeux/yeux2Nmeuf.svg" alt="yeux">
+        <img id="eyes1" style="visibility: visible;" src="avatar/yeux/yeux0mec.png" alt="yeux">
+        <img id="eyes2" style="visibility: hidden;" src="avatar/yeux/yeux0meuf.png" alt="yeux">
+        <img id="eyes3" style="visibility: hidden;" src="avatar/yeux/yeux1Bmec.png" alt="yeux">
+        <img id="eyes4" style="visibility: hidden;" src="avatar/yeux/yeux1Bmeuf.png" alt="yeux">
+        <img id="eyes5" style="visibility: hidden;" src="avatar/yeux/yeux1LSmec.png" alt="yeux">
+        <img id="eyes6" style="visibility: hidden;" src="avatar/yeux/yeux1LSmeuf.png" alt="yeux">
+        <img id="eyes7" style="visibility: hidden;" src="avatar/yeux/yeux1Nmec.png" alt="yeux">
+        <img id="eyes8" style="visibility: hidden;" src="avatar/yeux/yeux1Nmeuf.png" alt="yeux">
+        <img id="eyes9" style="visibility: hidden;" src="avatar/yeux/yeux2Bmec.png" alt="yeux">
+        <img id="eyes10" style="visibility: hidden;" src="avatar/yeux/yeux2Bmeuf.png" alt="yeux">
+        <img id="eyes11" style="visibility: hidden;" src="avatar/yeux/yeux2LSmec.png" alt="yeux">
+        <img id="eyes12" style="visibility: hidden;" src="avatar/yeux/yeux2LSmeuf.png" alt="yeux">
+        <img id="eyes13" style="visibility: hidden;" src="avatar/yeux/yeux2Nmec.png" alt="yeux">
+        <img id="eyes14" style="visibility: hidden;" src="avatar/yeux/yeux2Nmeuf.png" alt="yeux">
     </div>
 
     <!-- -----------------------------------------------------------------CHEVEUX-------------------------------------------------------------------------->
 
     <div class="hair">
-        <img id="hair1blond" style="visibility: visible;" src="avatar/cheveux/chev1blond.svg" alt="cheveux">
-        <img id="hair1brun" style="visibility: hidden;" src="avatar/cheveux/chev1brun.svg" alt="cheveux">
-        <img id="hair1chatain" style="visibility: hidden;" src="avatar/cheveux/chev1chatain.svg" alt="cheveux">
-        <img id="hair1roux" style="visibility: hidden;" src="avatar/cheveux/chev1roux.svg" alt="cheveux">
-        <img id="hair1rouge" style="visibility: hidden;" src="avatar/cheveux/chev1rouge.svg" alt="cheveux">
+        <img id="hair1blond" style="visibility: visible;" src="avatar/cheveux/chev1blond.png" alt="cheveux">
+        <img id="hair1brun" style="visibility: hidden;" src="avatar/cheveux/chev1brun.png" alt="cheveux">
+        <img id="hair1chatain" style="visibility: hidden;" src="avatar/cheveux/chev1chatain.png" alt="cheveux">
+        <img id="hair1roux" style="visibility: hidden;" src="avatar/cheveux/chev1roux.png" alt="cheveux">
+        <img id="hair1rouge" style="visibility: hidden;" src="avatar/cheveux/chev1rouge.png" alt="cheveux">
 
-        <img id="hair2blond" style="visibility: hidden;" src="avatar/cheveux/chev2blond.svg" alt="cheveux">
-        <img id="hair2brun" style="visibility: hidden;" src="avatar/cheveux/chev2brun.svg" alt="cheveux">
-        <img id="hair2chatain" style="visibility: hidden;" src="avatar/cheveux/chev2chatain.svg" alt="cheveux">
-        <img id="hair2roux" style="visibility: hidden;" src="avatar/cheveux/chev2roux.svg" alt="cheveux">
-        <img id="hair2rouge" style="visibility: hidden;" src="avatar/cheveux/chev2rouge.svg" alt="cheveux">
+        <img id="hair2blond" style="visibility: hidden;" src="avatar/cheveux/chev2blond.png" alt="cheveux">
+        <img id="hair2brun" style="visibility: hidden;" src="avatar/cheveux/chev2brun.png" alt="cheveux">
+        <img id="hair2chatain" style="visibility: hidden;" src="avatar/cheveux/chev2chatain.png" alt="cheveux">
+        <img id="hair2roux" style="visibility: hidden;" src="avatar/cheveux/chev2roux.png" alt="cheveux">
+        <img id="hair2rouge" style="visibility: hidden;" src="avatar/cheveux/chev2rouge.png" alt="cheveux">
 
-        <img id="hair3blond" style="visibility: hidden;" src="avatar/cheveux/chev3blond.svg" alt="cheveux">
-        <img id="hair3brun" style="visibility: hidden;" src="avatar/cheveux/chev3brun.svg" alt="cheveux">
-        <img id="hair3chatain" style="visibility: hidden;" src="avatar/cheveux/chev3chatain.svg" alt="cheveux">
-        <img id="hair3roux" style="visibility: hidden;" src="avatar/cheveux/chev3roux.svg" alt="cheveux">
-        <img id="hair3rouge" style="visibility: hidden;" src="avatar/cheveux/chev3rouge.svg" alt="cheveux">
+        <img id="hair3blond" style="visibility: hidden;" src="avatar/cheveux/chev3blond.png" alt="cheveux">
+        <img id="hair3brun" style="visibility: hidden;" src="avatar/cheveux/chev3brun.png" alt="cheveux">
+        <img id="hair3chatain" style="visibility: hidden;" src="avatar/cheveux/chev3chatain.png" alt="cheveux">
+        <img id="hair3roux" style="visibility: hidden;" src="avatar/cheveux/chev3roux.png" alt="cheveux">
+        <img id="hair3rouge" style="visibility: hidden;" src="avatar/cheveux/chev3rouge.png" alt="cheveux">
 
-        <img id="hair4blond" style="visibility: hidden;" src="avatar/cheveux/chev4blond.svg" alt="cheveux">
-        <img id="hair4brun" style="visibility: hidden;" src="avatar/cheveux/chev4brun.svg" alt="cheveux">
-        <img id="hair4chatain" style="visibility: hidden;" src="avatar/cheveux/chev4chatain.svg" alt="cheveux">
-        <img id="hair4roux" style="visibility: hidden;" src="avatar/cheveux/chev4roux.svg" alt="cheveux">
-        <img id="hair4rouge" style="visibility: hidden;" src="avatar/cheveux/chev4rouge.svg" alt="cheveux">
+        <img id="hair4blond" style="visibility: hidden;" src="avatar/cheveux/chev4blond.png" alt="cheveux">
+        <img id="hair4brun" style="visibility: hidden;" src="avatar/cheveux/chev4brun.png" alt="cheveux">
+        <img id="hair4chatain" style="visibility: hidden;" src="avatar/cheveux/chev4chatain.png" alt="cheveux">
+        <img id="hair4roux" style="visibility: hidden;" src="avatar/cheveux/chev4roux.png" alt="cheveux">
+        <img id="hair4rouge" style="visibility: hidden;" src="avatar/cheveux/chev4rouge.png" alt="cheveux">
 
-        <img id="hair5blond" style="visibility: hidden;" src="avatar/cheveux/chev4.2blond.svg" alt="cheveux">
-        <img id="hair5brun" style="visibility: hidden;" src="avatar/cheveux/chev4.2brun.svg" alt="cheveux">
-        <img id="hair5chatain" style="visibility: hidden;" src="avatar/cheveux/chev4.2chatain.svg" alt="cheveux">
-        <img id="hair5roux" style="visibility: hidden;" src="avatar/cheveux/chev4.2roux.svg" alt="cheveux">
-        <img id="hair5rouge" style="visibility: hidden;" src="avatar/cheveux/chev4.2rouge.svg" alt="cheveux">
+        <img id="hair5blond" style="visibility: hidden;" src="avatar/cheveux/chev4.2blond.png" alt="cheveux">
+        <img id="hair5brun" style="visibility: hidden;" src="avatar/cheveux/chev4.2brun.png" alt="cheveux">
+        <img id="hair5chatain" style="visibility: hidden;" src="avatar/cheveux/chev4.2chatain.png" alt="cheveux">
+        <img id="hair5roux" style="visibility: hidden;" src="avatar/cheveux/chev4.2roux.png" alt="cheveux">
+        <img id="hair5rouge" style="visibility: hidden;" src="avatar/cheveux/chev4.2rouge.png" alt="cheveux">
 
-        <img id="hair6blond" style="visibility: hidden;" src="avatar/cheveux/chev5blond.svg" alt="cheveux">
-        <img id="hair6brun" style="visibility: hidden;" src="avatar/cheveux/chev5brun.svg" alt="cheveux">
-        <img id="hair6chatain" style="visibility: hidden;" src="avatar/cheveux/chev5chatain.svg" alt="cheveux">
-        <img id="hair6roux" style="visibility: hidden;" src="avatar/cheveux/chev5roux.svg" alt="cheveux">
-        <img id="hair6rouge" style="visibility: hidden;" src="avatar/cheveux/chev5rouge.svg" alt="cheveux">
+        <img id="hair6blond" style="visibility: hidden;" src="avatar/cheveux/chev5blond.png" alt="cheveux">
+        <img id="hair6brun" style="visibility: hidden;" src="avatar/cheveux/chev5brun.png" alt="cheveux">
+        <img id="hair6chatain" style="visibility: hidden;" src="avatar/cheveux/chev5chatain.png" alt="cheveux">
+        <img id="hair6roux" style="visibility: hidden;" src="avatar/cheveux/chev5roux.png" alt="cheveux">
+        <img id="hair6rouge" style="visibility: hidden;" src="avatar/cheveux/chev5rouge.png" alt="cheveux">
 
-        <img id="hair7blond" style="visibility: hidden;" src="avatar/cheveux/chev6blond.svg" alt="cheveux">
-        <img id="hair7brun" style="visibility: hidden;" src="avatar/cheveux/chev6brun.svg" alt="cheveux">
-        <img id="hair7chatain" style="visibility: hidden;" src="avatar/cheveux/chev6chatain.svg" alt="cheveux">
-        <img id="hair7roux" style="visibility: hidden;" src="avatar/cheveux/chev6roux.svg" alt="cheveux">
-        <img id="hair7rouge" style="visibility: hidden;" src="avatar/cheveux/chev6rouge.svg" alt="cheveux">
+        <img id="hair7blond" style="visibility: hidden;" src="avatar/cheveux/chev6blond.png" alt="cheveux">
+        <img id="hair7brun" style="visibility: hidden;" src="avatar/cheveux/chev6brun.png" alt="cheveux">
+        <img id="hair7chatain" style="visibility: hidden;" src="avatar/cheveux/chev6chatain.png" alt="cheveux">
+        <img id="hair7roux" style="visibility: hidden;" src="avatar/cheveux/chev6roux.png" alt="cheveux">
+        <img id="hair7rouge" style="visibility: hidden;" src="avatar/cheveux/chev6rouge.png" alt="cheveux">
     </div>
 
 
@@ -114,20 +114,20 @@ require 'menu.inc.php';
 
 
     <div class="mouth">
-        <img id="mouths1" style="visibility: visible;" src="avatar/bouche/bouche0.svg" alt="bouche">
-        <img id="mouths2" style="visibility: hidden;" src="avatar/bouche/bouche1.svg" alt="bouche">
-        <img id="mouths3" style="visibility: hidden;" src="avatar/bouche/bouche2.svg" alt="bouche">
-        <img id="mouths4" style="visibility: hidden;" src="avatar/bouche/bouche3.svg" alt="bouche">
-        <img id="mouths5" style="visibility: hidden;" src="avatar/bouche/bouche4.svg" alt="bouche">
-        <img id="mouths6" style="visibility: hidden;" src="avatar/bouche/bouche5.svg" alt="bouche">
-        <img id="mouths7" style="visibility: hidden;" src="avatar/bouche/bouche6.svg" alt="bouche">
+        <img id="mouths1" style="visibility: visible;" src="avatar/bouche/bouche0.png" alt="bouche">
+        <img id="mouths2" style="visibility: hidden;" src="avatar/bouche/bouche1.png" alt="bouche">
+        <img id="mouths3" style="visibility: hidden;" src="avatar/bouche/bouche2.png" alt="bouche">
+        <img id="mouths4" style="visibility: hidden;" src="avatar/bouche/bouche3.png" alt="bouche">
+        <img id="mouths5" style="visibility: hidden;" src="avatar/bouche/bouche4.png" alt="bouche">
+        <img id="mouths6" style="visibility: hidden;" src="avatar/bouche/bouche5.png" alt="bouche">
+        <img id="mouths7" style="visibility: hidden;" src="avatar/bouche/bouche6.png" alt="bouche">
     </div>
 
     <!-- -----------------------------------------------------------------LUNETTES-------------------------------------------------------------------------->
 
     <div class="lunettes">
-        <img id="glass1" style="visibility: hidden;" src="avatar/lunettes/lunettescarees.svg" alt="lunettes">
-        <img id="glass2" style="visibility: hidden;" src="avatar/lunettes/lunettesrondes.svg" alt="lunettes">
+        <img id="glass1" style="visibility: hidden;" src="avatar/lunettes/lunettescarees.png" alt="lunettes">
+        <img id="glass2" style="visibility: hidden;" src="avatar/lunettes/lunettesrondes.png" alt="lunettes">
     </div>
 
 </div>
@@ -142,9 +142,9 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img onclick="face1()" id="visage1" class="aperçu" src="avatar/visage/visageB.svg" alt="couleur visage">
-                <img onclick="face2()" id="visage2" class="aperçu" src="avatar/visage/visageLS.svg" alt="couleur visage">
-                <img onclick="face3()" id="visage3" class="aperçu" src="avatar/visage/visageN.svg" alt="couleur visage">
+                <img onclick="face1()" id="visage1" class="aperçu" src="avatar/visage/visageB.png" alt="couleur visage">
+                <img onclick="face2()" id="visage2" class="aperçu" src="avatar/visage/visageLS.png" alt="couleur visage">
+                <img onclick="face3()" id="visage3" class="aperçu" src="avatar/visage/visageN.png" alt="couleur visage">
             </div>
         </div>
     </div>
@@ -156,47 +156,47 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img onclick="hairblond1()" id="cheveux1" class="aperçu" src="avatar/cheveux/chev1blond.svg" alt="cheveux">
-                <img onclick="hairbrun1()" id="cheveux2" class="aperçu" src="avatar/cheveux/chev1brun.svg" alt="cheveux">
-                <img onclick="hairchatain1()" id="cheveux3" class="aperçu" src="avatar/cheveux/chev1chatain.svg" alt="cheveux">
-                <img onclick="hairroux1()" id="cheveux4" class="aperçu" src="avatar/cheveux/chev1roux.svg" alt="cheveux">
-                <img onclick="hairrouge1()" id="cheveux5" class="aperçu" src="avatar/cheveux/chev1rouge.svg" alt="cheveux">
+                <img onclick="hairblond1()" id="cheveux1" class="aperçu" src="avatar/cheveux/chev1blond.png" alt="cheveux">
+                <img onclick="hairbrun1()" id="cheveux2" class="aperçu" src="avatar/cheveux/chev1brun.png" alt="cheveux">
+                <img onclick="hairchatain1()" id="cheveux3" class="aperçu" src="avatar/cheveux/chev1chatain.png" alt="cheveux">
+                <img onclick="hairroux1()" id="cheveux4" class="aperçu" src="avatar/cheveux/chev1roux.png" alt="cheveux">
+                <img onclick="hairrouge1()" id="cheveux5" class="aperçu" src="avatar/cheveux/chev1rouge.png" alt="cheveux">
 
-                <img onclick="hairblond2()" id="cheveux6" class="aperçu" src="avatar/cheveux/chev2blond.svg" alt="cheveux">
-                <img onclick="hairbrun2()" id="cheveux7" class="aperçu" src="avatar/cheveux/chev2brun.svg" alt="cheveux">
-                <img onclick="hairchatain2()" id="cheveux8" class="aperçu" src="avatar/cheveux/chev2chatain.svg" alt="cheveux">
-                <img onclick="hairroux2()" id="cheveux9" class="aperçu" src="avatar/cheveux/chev2roux.svg" alt="cheveux">
-                <img onclick="hairrouge2()" id="cheveux10" class="aperçu" src="avatar/cheveux/chev2rouge.svg" alt="cheveux">
+                <img onclick="hairblond2()" id="cheveux6" class="aperçu" src="avatar/cheveux/chev2blond.png" alt="cheveux">
+                <img onclick="hairbrun2()" id="cheveux7" class="aperçu" src="avatar/cheveux/chev2brun.png" alt="cheveux">
+                <img onclick="hairchatain2()" id="cheveux8" class="aperçu" src="avatar/cheveux/chev2chatain.png" alt="cheveux">
+                <img onclick="hairroux2()" id="cheveux9" class="aperçu" src="avatar/cheveux/chev2roux.png" alt="cheveux">
+                <img onclick="hairrouge2()" id="cheveux10" class="aperçu" src="avatar/cheveux/chev2rouge.png" alt="cheveux">
 
-                <img onclick="hairblond3()" id="cheveux11" class="aperçu" src="avatar/cheveux/chev3blond.svg" alt="cheveux">
-                <img onclick="hairbrun3()" id="cheveux12" class="aperçu" src="avatar/cheveux/chev3brun.svg" alt="cheveux">
-                <img onclick="hairchatain3()" id="cheveux13" class="aperçu" src="avatar/cheveux/chev3chatain.svg" alt="cheveux">
-                <img onclick="hairroux3()" id="cheveux14" class="aperçu" src="avatar/cheveux/chev3roux.svg" alt="cheveux">
-                <img onclick="hairrouge3()" id="cheveux15" class="aperçu" src="avatar/cheveux/chev3rouge.svg" alt="cheveux">
+                <img onclick="hairblond3()" id="cheveux11" class="aperçu" src="avatar/cheveux/chev3blond.png" alt="cheveux">
+                <img onclick="hairbrun3()" id="cheveux12" class="aperçu" src="avatar/cheveux/chev3brun.png" alt="cheveux">
+                <img onclick="hairchatain3()" id="cheveux13" class="aperçu" src="avatar/cheveux/chev3chatain.png" alt="cheveux">
+                <img onclick="hairroux3()" id="cheveux14" class="aperçu" src="avatar/cheveux/chev3roux.png" alt="cheveux">
+                <img onclick="hairrouge3()" id="cheveux15" class="aperçu" src="avatar/cheveux/chev3rouge.png" alt="cheveux">
 
-                <img onclick="hairblond4()" id="cheveux16" class="aperçu" src="avatar/cheveux/chev4blond.svg" alt="cheveux">
-                <img onclick="hairbrun4()" id="cheveux17" class="aperçu" src="avatar/cheveux/chev4brun.svg" alt="cheveux">
-                <img onclick="hairchatain4()" id="cheveux18" class="aperçu" src="avatar/cheveux/chev4chatain.svg" alt="cheveux">
-                <img onclick="hairroux4()" id="cheveux19" class="aperçu" src="avatar/cheveux/chev4roux.svg" alt="cheveux">
-                <img onclick="hairrouge4()" id="cheveux20" class="aperçu" src="avatar/cheveux/chev4rouge.svg" alt="cheveux">
+                <img onclick="hairblond4()" id="cheveux16" class="aperçu" src="avatar/cheveux/chev4blond.png" alt="cheveux">
+                <img onclick="hairbrun4()" id="cheveux17" class="aperçu" src="avatar/cheveux/chev4brun.png" alt="cheveux">
+                <img onclick="hairchatain4()" id="cheveux18" class="aperçu" src="avatar/cheveux/chev4chatain.png" alt="cheveux">
+                <img onclick="hairroux4()" id="cheveux19" class="aperçu" src="avatar/cheveux/chev4roux.png" alt="cheveux">
+                <img onclick="hairrouge4()" id="cheveux20" class="aperçu" src="avatar/cheveux/chev4rouge.png" alt="cheveux">
 
-                <img onclick="hairblond5()" id="cheveux31" class="aperçu" src="avatar/cheveux/chev4.2blond.svg" alt="cheveux">
-                <img onclick="hairbrun5()" id="cheveux32" class="aperçu" src="avatar/cheveux/chev4.2brun.svg" alt="cheveux">
-                <img onclick="hairchatain5()" id="cheveux33" class="aperçu" src="avatar/cheveux/chev4.2chatain.svg" alt="cheveux">
-                <img onclick="hairroux5()" id="cheveux34" class="aperçu" src="avatar/cheveux/chev4.2roux.svg" alt="cheveux">
-                <img onclick="hairrouge5()" id="cheveux35" class="aperçu" src="avatar/cheveux/chev4.2rouge.svg" alt="cheveux">
+                <img onclick="hairblond5()" id="cheveux31" class="aperçu" src="avatar/cheveux/chev4.2blond.png" alt="cheveux">
+                <img onclick="hairbrun5()" id="cheveux32" class="aperçu" src="avatar/cheveux/chev4.2brun.png" alt="cheveux">
+                <img onclick="hairchatain5()" id="cheveux33" class="aperçu" src="avatar/cheveux/chev4.2chatain.png" alt="cheveux">
+                <img onclick="hairroux5()" id="cheveux34" class="aperçu" src="avatar/cheveux/chev4.2roux.png" alt="cheveux">
+                <img onclick="hairrouge5()" id="cheveux35" class="aperçu" src="avatar/cheveux/chev4.2rouge.png" alt="cheveux">
 
-                <img onclick="hairblond6()" id="cheveux21" class="aperçu" src="avatar/cheveux/chev5blond.svg" alt="cheveux">
-                <img onclick="hairbrun6()" id="cheveux22" class="aperçu" src="avatar/cheveux/chev5brun.svg" alt="cheveux">
-                <img onclick="hairchatain6()" id="cheveux23" class="aperçu" src="avatar/cheveux/chev5chatain.svg" alt="cheveux">
-                <img onclick="hairroux6()" id="cheveux24" class="aperçu" src="avatar/cheveux/chev5roux.svg" alt="cheveux">
-                <img onclick="hairrouge6()" id="cheveux25" class="aperçu" src="avatar/cheveux/chev5rouge.svg" alt="cheveux">
+                <img onclick="hairblond6()" id="cheveux21" class="aperçu" src="avatar/cheveux/chev5blond.png" alt="cheveux">
+                <img onclick="hairbrun6()" id="cheveux22" class="aperçu" src="avatar/cheveux/chev5brun.png" alt="cheveux">
+                <img onclick="hairchatain6()" id="cheveux23" class="aperçu" src="avatar/cheveux/chev5chatain.png" alt="cheveux">
+                <img onclick="hairroux6()" id="cheveux24" class="aperçu" src="avatar/cheveux/chev5roux.png" alt="cheveux">
+                <img onclick="hairrouge6()" id="cheveux25" class="aperçu" src="avatar/cheveux/chev5rouge.png" alt="cheveux">
 
-                <img onclick="hairblond7()" id="cheveux26" class="aperçu" src="avatar/cheveux/chev6blond.svg" alt="cheveux">
-                <img onclick="hairbrun7()" id="cheveux27" class="aperçu" src="avatar/cheveux/chev6brun.svg" alt="cheveux">
-                <img onclick="hairchatain7()" id="cheveux28" class="aperçu" src="avatar/cheveux/chev6chatain.svg" alt="cheveux">
-                <img onclick="hairroux7()" id="cheveux29" class="aperçu" src="avatar/cheveux/chev6roux.svg" alt="cheveux">
-                <img onclick="hairrouge7()" id="cheveux30" class="aperçu" src="avatar/cheveux/chev6rouge.svg" alt="cheveux">
+                <img onclick="hairblond7()" id="cheveux26" class="aperçu" src="avatar/cheveux/chev6blond.png" alt="cheveux">
+                <img onclick="hairbrun7()" id="cheveux27" class="aperçu" src="avatar/cheveux/chev6brun.png" alt="cheveux">
+                <img onclick="hairchatain7()" id="cheveux28" class="aperçu" src="avatar/cheveux/chev6chatain.png" alt="cheveux">
+                <img onclick="hairroux7()" id="cheveux29" class="aperçu" src="avatar/cheveux/chev6roux.png" alt="cheveux">
+                <img onclick="hairrouge7()" id="cheveux30" class="aperçu" src="avatar/cheveux/chev6rouge.png" alt="cheveux">
 
             </div>
         </div>
@@ -210,20 +210,20 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img id="eyes1" class="aperçu" onclick="yeux1()" src="avatar/yeux/yeux0mec.svg" alt="yeux">
-                <img id="eyes2" class="aperçu" onclick="yeux2()" src="avatar/yeux/yeux0meuf.svg" alt="yeux">
-                <img id="eyes3" class="aperçu" onclick="yeux3()" src="avatar/yeux/yeux1Bmec.svg" alt="yeux">
-                <img id="eyes4" class="aperçu" onclick="yeux4()" src="avatar/yeux/yeux1Bmeuf.svg" alt="yeux">
-                <img id="eyes5" class="aperçu" onclick="yeux5()" src="avatar/yeux/yeux1LSmec.svg" alt="yeux">
-                <img id="eyes6" class="aperçu" onclick="yeux6()" src="avatar/yeux/yeux1LSmeuf.svg" alt="yeux">
-                <img id="eyes7" class="aperçu" onclick="yeux7()" src="avatar/yeux/yeux1Nmec.svg" alt="yeux">
-                <img id="eyes8" class="aperçu" onclick="yeux8()" src="avatar/yeux/yeux1Nmeuf.svg" alt="yeux">
-                <img id="eyes9" class="aperçu" onclick="yeux9()" src="avatar/yeux/yeux2Bmec.svg" alt="yeux">
-                <img id="eyes10" class="aperçu" onclick="yeux10()" src="avatar/yeux/yeux2Bmeuf.svg" alt="yeux">
-                <img id="eyes11" class="aperçu" onclick="yeux11()" src="avatar/yeux/yeux2LSmec.svg" alt="yeux">
-                <img id="eyes12" class="aperçu" onclick="yeux12()" src="avatar/yeux/yeux2LSmeuf.svg" alt="yeux">
-                <img id="eyes13" class="aperçu" onclick="yeux13()" src="avatar/yeux/yeux2Nmec.svg" alt="yeux">
-                <img id="eyes14" class="aperçu" onclick="yeux14()" src="avatar/yeux/yeux2Nmeuf.svg" alt="yeux">
+                <img id="eyes1" class="aperçu" onclick="yeux1()" src="avatar/yeux/yeux0mec.png" alt="yeux">
+                <img id="eyes2" class="aperçu" onclick="yeux2()" src="avatar/yeux/yeux0meuf.png" alt="yeux">
+                <img id="eyes3" class="aperçu" onclick="yeux3()" src="avatar/yeux/yeux1Bmec.png" alt="yeux">
+                <img id="eyes4" class="aperçu" onclick="yeux4()" src="avatar/yeux/yeux1Bmeuf.png" alt="yeux">
+                <img id="eyes5" class="aperçu" onclick="yeux5()" src="avatar/yeux/yeux1LSmec.png" alt="yeux">
+                <img id="eyes6" class="aperçu" onclick="yeux6()" src="avatar/yeux/yeux1LSmeuf.png" alt="yeux">
+                <img id="eyes7" class="aperçu" onclick="yeux7()" src="avatar/yeux/yeux1Nmec.png" alt="yeux">
+                <img id="eyes8" class="aperçu" onclick="yeux8()" src="avatar/yeux/yeux1Nmeuf.png" alt="yeux">
+                <img id="eyes9" class="aperçu" onclick="yeux9()" src="avatar/yeux/yeux2Bmec.png" alt="yeux">
+                <img id="eyes10" class="aperçu" onclick="yeux10()" src="avatar/yeux/yeux2Bmeuf.png" alt="yeux">
+                <img id="eyes11" class="aperçu" onclick="yeux11()" src="avatar/yeux/yeux2LSmec.png" alt="yeux">
+                <img id="eyes12" class="aperçu" onclick="yeux12()" src="avatar/yeux/yeux2LSmeuf.png" alt="yeux">
+                <img id="eyes13" class="aperçu" onclick="yeux13()" src="avatar/yeux/yeux2Nmec.png" alt="yeux">
+                <img id="eyes14" class="aperçu" onclick="yeux14()" src="avatar/yeux/yeux2Nmeuf.png" alt="yeux">
             </div>
         </div>
     </div>
@@ -236,13 +236,13 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img onclick="mouth1()" id="mouths1" class="aperçu" src="avatar/bouche/bouche0.svg" alt="bouche">
-                <img onclick="mouth2()" id="mouths2" class="aperçu" src="avatar/bouche/bouche1.svg" alt="bouche">
-                <img onclick="mouth3()" id="mouths3" class="aperçu" src="avatar/bouche/bouche2.svg" alt="bouche">
-                <img onclick="mouth4()" id="mouths4" class="aperçu" src="avatar/bouche/bouche3.svg" alt="bouche">
-                <img onclick="mouth5()" id="mouths5" class="aperçu" src="avatar/bouche/bouche4.svg" alt="bouche">
-                <img onclick="mouth6()" id="mouths6" class="aperçu" src="avatar/bouche/bouche5.svg" alt="bouche">
-                <img onclick="mouth7()" id="mouths7" class="aperçu" src="avatar/bouche/bouche6.svg" alt="bouche">
+                <img onclick="mouth1()" id="mouths1" class="aperçu" src="avatar/bouche/bouche0.png" alt="bouche">
+                <img onclick="mouth2()" id="mouths2" class="aperçu" src="avatar/bouche/bouche1.png" alt="bouche">
+                <img onclick="mouth3()" id="mouths3" class="aperçu" src="avatar/bouche/bouche2.png" alt="bouche">
+                <img onclick="mouth4()" id="mouths4" class="aperçu" src="avatar/bouche/bouche3.png" alt="bouche">
+                <img onclick="mouth5()" id="mouths5" class="aperçu" src="avatar/bouche/bouche4.png" alt="bouche">
+                <img onclick="mouth6()" id="mouths6" class="aperçu" src="avatar/bouche/bouche5.png" alt="bouche">
+                <img onclick="mouth7()" id="mouths7" class="aperçu" src="avatar/bouche/bouche6.png" alt="bouche">
             </div>
         </div>
     </div>
@@ -255,30 +255,30 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img id="chemise1" class="aperçu" onclick="clothes1()" src="avatar/vetement/chemisebleue.svg" alt="chemise">
-                <img id="chemise2" class="aperçu" onclick="clothes2()" src="avatar/vetement/chemisenoire.svg" alt="chemise">
-                <img id="chemise3" class="aperçu" onclick="clothes3()" src="avatar/vetement/chemiserouge.svg" alt="chemise">
-                <img id="chemise4" class="aperçu" onclick="clothes4()" src="avatar/vetement/chemiseverte.svg" alt="chemise">
+                <img id="chemise1" class="aperçu" onclick="clothes1()" src="avatar/vetement/chemisebleue.png" alt="chemise">
+                <img id="chemise2" class="aperçu" onclick="clothes2()" src="avatar/vetement/chemisenoire.png" alt="chemise">
+                <img id="chemise3" class="aperçu" onclick="clothes3()" src="avatar/vetement/chemiserouge.png" alt="chemise">
+                <img id="chemise4" class="aperçu" onclick="clothes4()" src="avatar/vetement/chemiseverte.png" alt="chemise">
 
-                <img id="gilet1" class="aperçu" onclick="clothes5()" src="avatar/vetement/giletbleu.svg" alt="gilet">
-                <img id="gilet2" class="aperçu" onclick="clothes6()" src="avatar/vetement/giletnoir.svg" alt="gilet">
-                <img id="gilet3" class="aperçu" onclick="clothes7()" src="avatar/vetement/giletrouge.svg" alt="gilet">
-                <img id="gilet4" class="aperçu" onclick="clothes8()" src="avatar/vetement/giletvert.svg" alt="gilet">
+                <img id="gilet1" class="aperçu" onclick="clothes5()" src="avatar/vetement/giletbleu.png" alt="gilet">
+                <img id="gilet2" class="aperçu" onclick="clothes6()" src="avatar/vetement/giletnoir.png" alt="gilet">
+                <img id="gilet3" class="aperçu" onclick="clothes7()" src="avatar/vetement/giletrouge.png" alt="gilet">
+                <img id="gilet4" class="aperçu" onclick="clothes8()" src="avatar/vetement/giletvert.png" alt="gilet">
 
-                <img id="pull1" class="aperçu" onclick="clothes9()" src="avatar/vetement/pullbleu.svg" alt="pull">
-                <img id="pull2" class="aperçu" onclick="clothes10()" src="avatar/vetement/pullnoir.svg" alt="pull">
-                <img id="pull3" class="aperçu" onclick="clothes11()" src="avatar/vetement/pullrouge.svg" alt="pull">
-                <img id="pull4" class="aperçu" onclick="clothes12()" src="avatar/vetement/pullvert.svg" alt="pull">
+                <img id="pull1" class="aperçu" onclick="clothes9()" src="avatar/vetement/pullbleu.png" alt="pull">
+                <img id="pull2" class="aperçu" onclick="clothes10()" src="avatar/vetement/pullnoir.png" alt="pull">
+                <img id="pull3" class="aperçu" onclick="clothes11()" src="avatar/vetement/pullrouge.png" alt="pull">
+                <img id="pull4" class="aperçu" onclick="clothes12()" src="avatar/vetement/pullvert.png" alt="pull">
 
-                <img id="sweat1" class="aperçu" onclick="clothes13()" src="avatar/vetement/sweatbleu.svg" alt="sweat">
-                <img id="sweat2" class="aperçu" onclick="clothes14()" src="avatar/vetement/sweatnoir.svg" alt="sweat">
-                <img id="sweat3" class="aperçu" onclick="clothes15()" src="avatar/vetement/sweatrouge.svg" alt="sweat">
-                <img id="sweat4" class="aperçu" onclick="clothes16()" src="avatar/vetement/sweatvert.svg" alt="sweat">
+                <img id="sweat1" class="aperçu" onclick="clothes13()" src="avatar/vetement/sweatbleu.png" alt="sweat">
+                <img id="sweat2" class="aperçu" onclick="clothes14()" src="avatar/vetement/sweatnoir.png" alt="sweat">
+                <img id="sweat3" class="aperçu" onclick="clothes15()" src="avatar/vetement/sweatrouge.png" alt="sweat">
+                <img id="sweat4" class="aperçu" onclick="clothes16()" src="avatar/vetement/sweatvert.png" alt="sweat">
 
-                <img id="tshirt1" class="aperçu" onclick="clothes17()" src="avatar/vetement/tshirtbleu.svg" alt="tshirt">
-                <img id="tshirt2" class="aperçu" onclick="clothes18()" src="avatar/vetement/tshirtnoir.svg" alt="tshirt">
-                <img id="tshirt3" class="aperçu" onclick="clothes19()" src="avatar/vetement/tshirtrouge.svg" alt="tshirt">
-                <img id="tshirt4" class="aperçu" onclick="clothes20()" src="avatar/vetement/tshirtvert.svg" alt="tshirt">
+                <img id="tshirt1" class="aperçu" onclick="clothes17()" src="avatar/vetement/tshirtbleu.png" alt="tshirt">
+                <img id="tshirt2" class="aperçu" onclick="clothes18()" src="avatar/vetement/tshirtnoir.png" alt="tshirt">
+                <img id="tshirt3" class="aperçu" onclick="clothes19()" src="avatar/vetement/tshirtrouge.png" alt="tshirt">
+                <img id="tshirt4" class="aperçu" onclick="clothes20()" src="avatar/vetement/tshirtvert.png" alt="tshirt">
             </div>
         </div>
     </div>
@@ -290,9 +290,9 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img class="aperçu" id="glass" onclick="glasses1()" src="avatar/lunettes/lunettescarees.svg" alt="lunettes">
-                <img class="aperçu" id="glass2" onclick="glasses2()" src="avatar/lunettes/lunettesrondes.svg" alt="lunettes">
-                <img class="aperçu" id="glass3" onclick="glasses3()" src="avatar/lunettes/none.svg" alt="lunettes">
+                <img class="aperçu" id="glass" onclick="glasses1()" src="avatar/lunettes/lunettescarees.png" alt="lunettes">
+                <img class="aperçu" id="glass2" onclick="glasses2()" src="avatar/lunettes/lunettesrondes.png" alt="lunettes">
+                <img class="aperçu" id="glass3" onclick="glasses3()" src="avatar/lunettes/none.png" alt="lunettes">
             </div>
         </div>
     </div>
@@ -2478,7 +2478,7 @@ function clothes1(){
         // to screenshot the div
         function takeshot() {
             let div =
-                document.getElementById('avatar_editor');
+                document.getElementById('avatar');
 
             // Use the html2canvas
             // function to take a screenshot
