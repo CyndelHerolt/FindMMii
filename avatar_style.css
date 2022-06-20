@@ -4,9 +4,7 @@
     display: flex;
     align-content: center;
     justify-content: flex-start;
-    height: 360px;
-    width: 360px;
-    margin-top: -10vh;
+    height: 350px;
 }
 
 #avatar div img {
@@ -14,7 +12,8 @@
 }
 
 #avatar img {
-    width: 100%;
+    width: 360px;
+    height: 360px;
 }
 
 .aperçu {
@@ -31,4 +30,52 @@
     flex-wrap: nowrap;
     overflow: scroll;
     width: 100vw;
+}
+
+.clothes {
+    height: 360px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.faces {
+    height: 360px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.eyes {
+    height: 360px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.hair {
+    height: 360px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.mouth {
+    height: 360px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.lunettes {
+    height: 360px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
 }
