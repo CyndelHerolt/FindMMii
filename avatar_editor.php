@@ -2478,7 +2478,7 @@ function clothes1(){
         // to screenshot the div
         function takeshot() {
             let div =
-                document.getElementById('avatar');
+                document.getElementById('avatar_editor');
 
             // Use the html2canvas
             // function to take a screenshot

@@ -20,7 +20,7 @@ body {
 }
 
 .header img {
-    max-height: 60px;
+    max-height: 45px;
 }
 
 .header__mobile {
@@ -490,71 +490,7 @@ h4 {
     text-transform: uppercase;
 }
 
-
-
-
-
-/* page listing  */
-
-
-.listing h1 {
-    padding-top: 5vh;
-    font-size: 3vw;
-    font-family: arial, helvetica;
-    text-align: center;
-    font-weight: bold;
-}
-
-.listing .list-container {
-    min-height: 50vh;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-    padding: 30px 30px;
-    justify-content: space-evenly;
-}
-
-
-.list-item {
-    position: relative;
-    padding-top: 1vh;
-    max-width: 500px;
-    border-radius: 20px;
-    flex: 1 1 500px;
-    text-align: center;
-    margin-bottom: 3vh;
-
-}
-
-.list-item img {
-    padding-top: 0;
-    margin-top: 0;
-    height: 300px;
-    text-align: center;
-    border-radius: 15px;
-    transition: 1s;
-}
-
-.list-item img:hover {
-    -ms-transform: scale(1.2);
-    /* IE 9 */
-    -webkit-transform: scale(1.2);
-    /* Safari 3-8 */
-    transform: scale(1.2);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* --------------------------------  */
 
 h1 {
     font-family: 'Poppins', sans-serif;
@@ -651,4 +587,100 @@ form {
     text-align: right;
     line-height: 30px;
     background: linear-gradient(180deg, rgba(255,252,245,0) 27%, rgba(255,224,94,1) 27%, rgba(255,224,94,1) 77%, rgba(255,255,255,0) 77%);
+}
+
+.parcours {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.code_parcours h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    width: 80vw;
+    font-size: 7.5vw;
+    margin: 30px auto;
+    text-align: right;
+    line-height: 40px;
+    background: linear-gradient(180deg, rgba(255,252,245,0) 27%, rgba(255,224,94,1) 27%, rgba(255,224,94,1) 77%, rgba(255,255,255,0) 77%);
+}
+
+.code_parcours h1 span {
+    font-size: 6vw;
+    font-weight: 200;
+    margin-right: 42vw;
+}
+
+.parcours_titre {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.parcours_titre h1 {
+    width: 100%;
+    margin: 35px 0 0 0;
+    padding: 20px 0 0 20px;
+    text-align: left;
+}
+
+.parcours_titre h2 {
+    background: linear-gradient(180deg, rgba(255,252,245,0) 22%, rgba(238,108,77,1) 22%, rgba(238,108,77,1) 70%, rgba(255,255,255,0) 70%);
+    text-align: right;
+    width: 100%;
+    padding: 10px 20px 0 0;
+}
+
+.parcours h3 {
+    background-color: #023047;
+    color: #FFE05E;
+    padding: 20px 15px;
+    width: 70%;
+    font-size: initial;
+    margin-top: 35px;
+}
+
+.parcours article {
+    margin: 0 30px;
+}
+
+.parcours h4 {
+    margin: 10px 0 10px 0;
+    background-color: #FFE05E;
+    padding: 10px;
+    text-align: left;
+    font-size: smaller;
+    width: fit-content;
+    width: -moz-fit-content;
+}
+
+.parcours p {
+    text-align: left;
+}
+
+.rules {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rules img {
+    width: 90%;
+}
+
+.point1 {
+    border: solid #023047;
+}
+
+.point2 {
+    border: solid #EE6C4D;
+}
+
+.point3 {
+    border: solid #FFE05E;
+}
+
+.points {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

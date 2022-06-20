@@ -1,7 +1,7 @@
 <?php require 'lib.inc.php'; ?>
 
 <header class="header">
-    <a href="index.php"><img src="img/logo-test.png" /></a>
+    <a href="index.php"><img src="img/logo.png" /></a>
     <div class="header__mobile" onclick="toggleMenu()">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -38,7 +38,7 @@
             <?php
             echo '<div class="actions">';
             if (empty($_SESSION['prenom_client'])) {
-                echo '<a href="connexion.php">Connexion</a>/<a href="inscription.php">Inscription</a>';
+                echo '<a href="connexion.php">Connexion</a>/<a href="index.php">Inscription</a>';
             } else {
                 echo '<a href="deconnexion.php">Déconnexion</a> <a href="profil.php">Profil</a>';
             }
@@ -70,15 +70,6 @@
                     Télécharger l'avatar
                 </a></li>
 
-        </ul>
-    </section>
-
-    <section class="bottom">
-        <ul class="nav-mobile__social">
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">twitter</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">Youtube</a></li>
         </ul>
     </section>
 
