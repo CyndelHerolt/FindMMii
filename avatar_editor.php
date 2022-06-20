@@ -38,9 +38,9 @@ require 'menu.inc.php';
     <!-- -----------------------------------------------------------------PEAUX-------------------------------------------------------------------------->
 
     <div class="faces">
-        <img id="visage2" style="visibility: visible;" src="avatar/visage/visageLS.png" alt="visage">
-        <img id="visage3" style="visibility: visible;" src="avatar/visage/visageN.png" alt="visage">
         <img id="visage1" style="visibility: visible;" src="avatar/visage/visageB.png" alt="visage">
+        <img id="visage2" style="visibility: hidden;" src="avatar/visage/visageLS.png" alt="visage">
+        <img id="visage3" style="visibility: hidden;" src="avatar/visage/visageN.png" alt="visage">
     </div>
 
     <!-- -----------------------------------------------------------------YEUX-------------------------------------------------------------------------->
@@ -142,9 +142,9 @@ require 'menu.inc.php';
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <img onclick="face1()"  class="aperçu" src="avatar/visage/visageB.png" alt="couleur visage">
-                <img onclick="face2()"  class="aperçu" src="avatar/visage/visageLS.png" alt="couleur visage">
-                <img onclick="face3()"  class="aperçu" src="avatar/visage/visageN.png" alt="couleur visage">
+                <img onclick="face1()" id="visage1" class="aperçu" src="avatar/visage/visageB.png" alt="couleur visage">
+                <img onclick="face2()" id="visage2" class="aperçu" src="avatar/visage/visageLS.png" alt="couleur visage">
+                <img onclick="face3()" id="visage3" class="aperçu" src="avatar/visage/visageN.png" alt="couleur visage">
             </div>
         </div>
     </div>
@@ -304,32 +304,18 @@ require 'menu.inc.php';
 <script>
 
     function face1() {
-        /*const show = document.getElementById('visage1');
-        show.append();
-        const element = document.getElementById('visage2','visage3');
-        element.remove();*/
         document.getElementById('visage1').style.visibility = "visible";
         document.getElementById('visage2').style.visibility = "hidden";
         document.getElementById('visage3').style.visibility = "hidden";
     }
 
     function face2() {
-        /*document.getElementById('visage1','visage3')
-        replaceWith.document.getElementById('visage2');
-        const show = document.getElementById('visage2');
-        show.append();
-        const element = document.getElementById('visage1','visage3');
-        element.remove();*/
         document.getElementById('visage1').style.visibility = "hidden";
         document.getElementById('visage2').style.visibility = "visible";
         document.getElementById('visage3').style.visibility = "hidden";
     }
 
     function face3() {
-        /*const show = document.getElementById('visage3');
-        show.append();
-        const element = document.getElementById('visage1','visage2');
-        element.remove();*/
         document.getElementById('visage1').style.visibility = "hidden";
         document.getElementById('visage2').style.visibility = "hidden";
         document.getElementById('visage3').style.visibility = "visible";
