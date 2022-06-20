@@ -2,7 +2,7 @@
 require 'debut_html.inc.php';
 require 'menu.inc.php';
 ?>
-<main id="accueil">
+<main class="form">
     <h1> <span>Bienvenue sur</span> <br> FindMMii</h1>
 
     <div id="avatar_accueil">

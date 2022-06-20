@@ -518,7 +518,7 @@ h1 span {
     margin: 0 auto;
 }
 
-#accueil img {
+.form img {
     width: 40vw;
 }
 
@@ -530,13 +530,13 @@ h1 span {
     margin: 0 auto;
 }
 
-#accueil input {
+.form input {
     background-color: #e7e7e7;
     border: none;
     padding: 5px;
 }
 
-#accueil label {
+.form label {
     margin: 10px 0;
 }
 
@@ -555,7 +555,7 @@ h1 span {
     width: 88vw;
 }
 
-#accueil h2 {
+.form h2 {
     margin: 25px 0 10px 5vw;
     font-size: 6vw;
     font-weight: 700;
