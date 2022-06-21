@@ -12,24 +12,28 @@ if (!empty($_SESSION['erreur'])) {
 // var_dump($_SESSION);
 ?>
 <main class="form">
+    <h1 id="co_title"><span>Accède à</span> ton compte</h1>
+
+    <div id="avatar_accueil">
+        <img src="img/avatar2.png" alt="avatar d'accueil">
+    </div>
+
     <form method="post" action="connexion_verif.php" id="login-form" class="login-form" autocomplete="off" role="main">
         <h2>Connexion</h2>
         <div>
             <label class="label-email">
-                <input type="email" class="text" name="mail" placeholder="Email" tabindex="1" required />
                 <span class="required">Votre Email</span>
+                <input type="email" class="text" name="mail" placeholder="Email" tabindex="1" required />
             </label>
         </div>
         <div>
             <label class="label-password">
-                <input type="password" class="text" name="mdp" placeholder="Mot de passe" tabindex="2" required />
                 <span class="required">Votre mot de passe</span>
+                <input type="password" class="text" name="mdp" placeholder="Mot de passe" tabindex="2" required />
             </label>
         </div>
-        <input type="submit" value="Se connecter" />
-        <div class="email">
-            <a href="https://mmi21g09.mmi-troyes.fr/application/inscription.php">Pas encore inscrit ?</a>
-        </div>
+        <input class="valid" type="submit" value="Se connecter" /> <br>
+            <a class="account" href="index.php">Pas encore inscrit ?</a>
 
     </form>
 </main>

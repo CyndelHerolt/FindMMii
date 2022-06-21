@@ -24,17 +24,15 @@ require 'menu.inc.php';
         <div id="email">
             <label class="label-email">
                 <span class="required">Email</span>
-                <br>
                 <input type="email" class="text" name="mail" placeholder="Email" tabindex="1" required />
             </label>
             <label class="label-password">
                 <span class="required">Mot de passe</span>
-                <br>
                 <input type="text" class="text" name="mdp" placeholder="Mot de passe" tabindex="2" required />
             </label>
         <input id="valid" type="submit" value="Valider" />
         <div>
-            <a class="account" href="https://mmi21g09.mmi-troyes.fr/application/connexion.php">Tu as déjà un compte ? Connectes-toi</a>
+            <a class="account" href="connexion.php">Tu as déjà un compte ? Connectes-toi</a>
         </div>
 
     </form>
